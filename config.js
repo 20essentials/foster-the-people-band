@@ -1,0 +1,23 @@
+export const nameBand = 'FOSTER THE PEOPLE ';
+export const nameSongs = [
+	"PUMPED UP KICKS", /*1*/
+	"WASTE", /*2*/
+	"IMAGINATION", /*3*/
+	"HOUDINI", /*4*/
+	"CALL IT WHAT YOU WAN", /*5*/
+	"LOST IN SPACE", /*6*/
+	"SEE YOU IN THE AFTERLIFE", /*7*/
+	"TAKE ME BACK", /*8*/
+	"LET GO", /*9*/
+	"FEED ME", /*10*/
+	"PARADISE STATE OF MIND", /*11*/
+	"GLITCHZIG", /*12*/
+	"THE HOLY SHANGRI-LA", /*13*/
+	"SOMETIMES I WANNA BE BAD", /*14*/
+	"CHASING LOW VIBRATIONS", /*15*/
+	"A DIAMOND TO BE BORN", /*16*/
+	"HELENA BEAT", /*17*/
+	"SIT NEXT TO ME", /*18*/
+	"I WOULD DO ANYTHING FOR YOU", /*19*/
+	"LIFE ON THE NICKEL", /*20*/
+]
